@@ -1,8 +1,8 @@
 # Versioning System
-DU_BASE_VERSION = v14.0
+DU_BASE_VERSION = v1.Frank
 
 ifndef DU_BUILD_TYPE
-    DU_BUILD_TYPE := UNOFFICIAL
+    DU_BUILD_TYPE := Kang
 endif
 
 # Only include DU-Updater for official, weeklies, and rc builds
